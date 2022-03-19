@@ -1,8 +1,5 @@
 # Interactive_AR_E-Book
-##### Google簡報: 
-https://docs.google.com/presentation/d/1xq19L2HNOEH-LCz24NJMG7otinbAE2UH/edit?usp=sharing&ouid=102120387455669479311&rtpof=true&sd=true
-
-##### ppt投影片、DEMO影片、報告書：
+- ppt投影片、DEMO影片、報告書：
 https://drive.google.com/drive/folders/1MsGGpTffDcdd4-vzLyo6yqHXyP6OtEdI?usp=sharing
 
 ### 一. 系統背景
