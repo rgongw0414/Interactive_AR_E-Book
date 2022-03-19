@@ -2,6 +2,9 @@
 ##### Google簡報: 
 https://docs.google.com/presentation/d/1xq19L2HNOEH-LCz24NJMG7otinbAE2UH/edit?usp=sharing&ouid=102120387455669479311&rtpof=true&sd=true
 
+##### ppt投影片、DEMO影片：
+https://drive.google.com/drive/folders/1MsGGpTffDcdd4-vzLyo6yqHXyP6OtEdI?usp=sharing
+
 ### 一. 系統背景
 #### 1.1 動機與目的
     一般市面上的美術設定集，能見的只有2D平面內容，而無法觀察其它細節，因此本專題認為若能以各個角度去觀察物件，將能提升其價值。
